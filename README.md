@@ -69,9 +69,9 @@ flowchart TB
         P --> Q([Final Comparative Analysis])
     end
 
-    classDef data fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    classDef ensemble fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;
-    classDef eval fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef data fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#ffffff;
+    classDef ensemble fill:#312e81,stroke:#a855f7,stroke-width:2px,color:#ffffff;
+    classDef eval fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ffffff;
     
     class A,B,C,D data;
     class E,F,G,H,I,J,K,L,M,N,O ensemble;
